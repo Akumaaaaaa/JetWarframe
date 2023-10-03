@@ -1,2 +1,2 @@
 # JetWarframe
-Repository ini berguna untuk menyimpan Source Code Warframe
+Repository ini berguna untuk menyimpan Source Code Warframe dalam Bahasa Kotlin
